@@ -1,0 +1,55 @@
+{
+    "signup":{
+        "name":"Nicollas dos Santos",
+        "cpf": "00000069240",
+        "email": "jalinrabey@hotmail.com",
+        "whatsapp": "11999999999",
+        
+        "address":{
+            "postalcode":"13231090",
+            "street":"Rua Osvaldo Fernandes Chagas",
+            "number": "134",
+            "details":"4351",
+            "district":"Jardim São Conrado",
+            "city_state":"Campo Limpo Paulista/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "cpf_inv":{
+        "name":"Hanrrison dos Santos",
+        "cpf": "xz00AA69240",
+        "email": "volinrabbah@gmail.com",
+        "whatsapp": "11999999999",
+        
+        "address":{
+            "postalcode":"13231090",
+            "street":"Rua Osvaldo Fernandes Chagas",
+            "number": "134",
+            "details":"4351",
+            "district":"Jardim São Conrado",
+            "city_state":"Campo Limpo Paulista/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    
+    "email_inv":{
+        "name":"João dos Santos",
+        "cpf": "00000069240",
+        "email": "jalinrabey.hotmail.com",
+        "whatsapp": "11999999999",
+        
+        "address":{
+            "postalcode":"13231090",
+            "street":"Rua Osvaldo Fernandes Chagas",
+            "number": "134",
+            "details":"4351",
+            "district":"Jardim São Conrado",
+            "city_state":"Campo Limpo Paulista/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
